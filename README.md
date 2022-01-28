@@ -7,4 +7,4 @@ MEDIALAB is executed through the MATLAB home screen. The execution of MEDIALAB r
 
 ## Documentation
 
-Read the docs [here.]("https://github.com/Eawag-AppliedSystemAnalysis/Medialab/blob/master/docs/MEDIALAB User Manual_220201.pdf")
+Read the docs [here.](https://github.com/Eawag-AppliedSystemAnalysis/Medialab/blob/master/docs/MEDIALAB%20User%20Manual_220201.pdf)
