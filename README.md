@@ -5,7 +5,7 @@ MEDIALAB (Modeling Early DIAgenesis using MATLAB) is an early diagenesis model, 
 
 A system of partial differential equations corresponding to early diagenesis equations are automatically generated through MATLAB’s symbolic programming capabilities and solved using MATLAB’s built-in solver pdepe to evaluate the temporal and spatial distribution of chemical species.
 
-##### Example output figure from the default parameters
+#### Example output figure from the default parameters
 ![Output Image](https://github.com/Eawag-AppliedSystemAnalysis/Medialab/blob/master/docs/example_output.png)
 
 ## Documentation
